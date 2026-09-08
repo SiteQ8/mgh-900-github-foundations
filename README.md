@@ -66,3 +66,14 @@ You are ready to leave when you can point to:
 - one issue that another person could act on;
 - one Project view or board with work organized; and
 - one successful Actions run you can explain in plain language.
+
+
+## Teaching toolkit
+
+- [Learner preflight](learner-preflight.md) — a quick setup and safety check before class.
+- [Instructor guide](instructor-guide.md) — facilitation notes, misconceptions, and recovery paths.
+- [Assessment rubric](assessment-rubric.md) — completion evidence and lightweight evaluation.
+- [Git and GitHub cheat sheet](git-github-cheatsheet.md) — web workflow and command reference.
+- [Glossary](glossary.md) — plain-language definitions for the core concepts.
+- [Discussion prompts](discussion-prompts.md) — questions for pair work and transitions.
+- [Post-course retrospective](retrospective.md) — capture improvements while the class is fresh.
