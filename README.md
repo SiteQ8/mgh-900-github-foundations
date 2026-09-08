@@ -81,7 +81,9 @@ You are ready to leave when you can point to:
 
 ## Course microsite
 
-Open [site/index.html](site/index.html) for the static course hub. It includes:
+The live course hub is published at https://siteq8.github.io/mgh-900-github-foundations/.
+
+The static pages include:
 
 - a landing page with the course route and learning outcomes;
 - a visual schedule;
@@ -89,4 +91,4 @@ Open [site/index.html](site/index.html) for the static course hub. It includes:
 - an instructor view with recovery paths; and
 - a printable learner checklist.
 
-The microsite uses only HTML and CSS, so it can be opened locally or published as a static site without a build step.
+The source pages are in site/ and the GitHub Pages publication copy is in docs/. The microsite uses only HTML and CSS, so it has no build step.
