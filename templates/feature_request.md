@@ -2,7 +2,7 @@
 
 Suggest a safer, clearer, or more useful learning activity.
 
-## Learner or instructor need
+## Learner need
 
 ## Proposed change
 
