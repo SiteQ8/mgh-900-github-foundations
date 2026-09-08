@@ -77,3 +77,16 @@ You are ready to leave when you can point to:
 - [Glossary](glossary.md) — plain-language definitions for the core concepts.
 - [Discussion prompts](discussion-prompts.md) — questions for pair work and transitions.
 - [Post-course retrospective](retrospective.md) — capture improvements while the class is fresh.
+
+
+## Course microsite
+
+Open [site/index.html](site/index.html) for the static course hub. It includes:
+
+- a landing page with the course route and learning outcomes;
+- a visual schedule;
+- lab cards with success checks;
+- an instructor view with recovery paths; and
+- a printable learner checklist.
+
+The microsite uses only HTML and CSS, so it can be opened locally or published as a static site without a build step.
