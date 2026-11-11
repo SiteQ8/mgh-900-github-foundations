@@ -25,12 +25,12 @@ This is the student workspace for learning GitHub by using it. You will create a
 
 ## Student toolkit
 
-- [Learner preflight](learner-preflight.md) — prepare your account, project idea, and safety habits.
-- [Git and GitHub cheat sheet](git-github-cheatsheet.md) — use the web workflow or command reference.
-- [Glossary](glossary.md) — translate the core GitHub vocabulary into plain language.
-- [Discussion prompts](discussion-prompts.md) — use these to explain your choices to a partner.
-- [Printable checklist](site/checklist.html) — track your progress through the day.
-- [Course microsite](https://siteq8.github.io/mgh-900-github-foundations/) — use the visual course hub.
+- [Learner preflight](learner-preflight.md): prepare your account, project idea, and safety habits.
+- [Git and GitHub cheat sheet](git-github-cheatsheet.md): use the web workflow or command reference.
+- [Glossary](glossary.md): translate the core GitHub vocabulary into plain language.
+- [Discussion prompts](discussion-prompts.md): use these to explain your choices to a partner.
+- [Printable checklist](site/checklist.html): track your progress through the day.
+- [Course microsite](https://siteq8.github.io/mgh-900-github-foundations/): use the visual course hub.
 
 ## Definition of done
 
@@ -45,13 +45,13 @@ You are ready to leave when you can point to:
 
 ## Repository map
 
-- labs/ — guided practice activities.
-- starter/ — a safe learner profile exercise.
-- challenge.md — the end-of-course workflow challenge.
-- templates/ — reusable student issue and pull request prompts.
-- automation/ — an example validation workflow for reading and discussion.
-- site/ — source files for the course microsite.
-- docs/ — the GitHub Pages publication copy.
+- labs/: guided practice activities.
+- starter/: a safe learner profile exercise.
+- challenge.md: the end-of-course workflow challenge.
+- templates/: reusable student issue and pull request prompts.
+- automation/: an example validation workflow for reading and discussion.
+- site/: source files for the course microsite.
+- docs/: the GitHub Pages publication copy.
 
 ## Course microsite
 
